@@ -1,0 +1,3 @@
+.section-latest-news .row {
+    flex-direction: row-reverse; /* Reverse the order of elements */
+}
