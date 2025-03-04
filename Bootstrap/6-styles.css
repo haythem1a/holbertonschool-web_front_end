@@ -1,0 +1,49 @@
+/* styles.css */
+
+/* btn-primary styles */
+.btn-primary {
+    background-color: #E0003C;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+    background-color: #BC1340;
+}
+
+/* btn-outline-primary styles */
+.btn-outline-primary {
+    color: #E0003C;
+    border-color: #E0003C;
+}
+
+.btn-outline-primary:hover,
+.btn-outline-primary:focus,
+.btn-outline-primary:active {
+    background-color: #E0003C;
+}
+
+/* Link styles */
+a,
+a:hover,
+a:focus {
+    color: #E0003C;
+    text-decoration: none;
+}
+
+/* Card styles */
+.card {
+    border-color: #E0003C;
+    border-radius: 1rem;
+}
+
+.card-header,
+.card-footer {
+    border-color: #E0003C;
+    background: #E0003C;
+}
+
+/* .text-muted styles */
+.text-muted {
+    color: #8C8C8C;
+}
